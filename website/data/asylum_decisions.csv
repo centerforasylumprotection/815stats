@@ -819,26 +819,31 @@ Year,"Country of Asylum","Country of Origin","Country of Asylum ISO","Country of
 2024,Thailand,Sudan,THA,SDN,U,FI,P,5,0,0,0,5
 2024,Thailand,"Syrian Arab Rep.",THA,SYR,U,FI,P,14,0,0,0,14
 2024,Thailand,Uganda,THA,UGA,U,FI,P,5,0,0,0,5
-2025,Thailand,Afghanistan,THA,AFG,U,FI,P,45,0,0,0,45
-2025,Thailand,Cambodia,THA,KHM,U,AR,P,5,0,5,11,21
-2025,Thailand,Cambodia,THA,KHM,U,FI,P,45,0,34,5,84
+2025,Thailand,Afghanistan,THA,AFG,U,FI,P,52,0,0,0,52
+2025,Thailand,Cambodia,THA,KHM,U,AR,P,10,0,17,30,57
+2025,Thailand,Cambodia,THA,KHM,U,FI,P,52,0,44,17,113
 2025,Thailand,Cambodia,THA,KHM,U,RA,P,0,0,0,5,5
-2025,Thailand,China,THA,CHN,U,AR,P,0,0,5,0,5
-2025,Thailand,China,THA,CHN,U,FI,P,5,0,11,0,16
-2025,Thailand,Cameroon,THA,CMR,U,AR,P,0,0,5,0,5
-2025,Thailand,Cameroon,THA,CMR,U,FI,P,5,0,0,5,10
-2025,Thailand,Ethiopia,THA,ETH,U,FI,P,0,0,0,5,5
+2025,Thailand,China,THA,CHN,U,AR,P,0,0,14,0,14
+2025,Thailand,China,THA,CHN,U,FI,P,10,0,10,17,37
+2025,Thailand,Cameroon,THA,CMR,U,AR,P,0,0,5,5,10
+2025,Thailand,Cameroon,THA,CMR,U,FI,P,10,0,5,13,28
+2025,Thailand,"Dem. Rep. of the Congo",THA,COD,U,FI,P,5,0,0,0,5
+2025,Thailand,Ethiopia,THA,ETH,U,FI,P,5,0,0,5,10
 2025,Thailand,"State of Palestine",THA,PSE,U,RA,P,0,0,0,5,5
-2025,Thailand,Guinea,THA,GIN,U,FI,P,5,0,0,0,5
-2025,Thailand,"Iran (Islamic Rep. of)",THA,IRN,U,FI,P,0,0,0,5,5
+2025,Thailand,Guinea,THA,GIN,U,FI,P,10,0,0,0,10
+2025,Thailand,"Iran (Islamic Rep. of)",THA,IRN,U,FI,P,5,0,0,0,5
 2025,Thailand,"Lao People's Dem. Rep.",THA,LAO,U,FI,P,0,0,0,5,5
-2025,Thailand,"Sri Lanka",THA,LKA,U,FI,P,10,0,0,0,10
-2025,Thailand,Nigeria,THA,NGA,U,AR,P,0,0,5,5,10
+2025,Thailand,"Sri Lanka",THA,LKA,U,FI,P,11,0,0,0,11
+2025,Thailand,Nigeria,THA,NGA,U,AR,P,0,0,5,11,16
 2025,Thailand,Nigeria,THA,NGA,U,FI,P,0,0,5,0,5
-2025,Thailand,Pakistan,THA,PAK,U,AR,P,5,0,43,10,58
-2025,Thailand,Pakistan,THA,PAK,U,FI,P,81,0,92,5,178
-2025,Thailand,Pakistan,THA,PAK,U,RA,P,0,0,0,25,25
+2025,Thailand,Pakistan,THA,PAK,U,AR,P,5,0,66,22,93
+2025,Thailand,Pakistan,THA,PAK,U,FI,P,110,0,104,16,230
+2025,Thailand,Pakistan,THA,PAK,U,RA,P,0,0,0,26,26
 2025,Thailand,Somalia,THA,SOM,U,FI,P,5,0,0,0,5
-2025,Thailand,"Viet Nam",THA,VNM,U,AR,P,5,0,13,0,18
-2025,Thailand,"Viet Nam",THA,VNM,U,FI,P,30,0,24,0,54
-2025,Thailand,"Viet Nam",THA,VNM,U,RA,P,0,0,0,5,5
+2025,Thailand,Somalia,THA,SOM,U,RA,P,5,0,0,0,5
+2025,Thailand,"Viet Nam",THA,VNM,U,AR,P,5,0,15,18,38
+2025,Thailand,"Viet Nam",THA,VNM,U,FI,P,50,0,69,33,152
+2025,Thailand,"Viet Nam",THA,VNM,U,RA,P,5,0,0,0,5
+2025,Thailand,Sudan,THA,SDN,U,FI,P,5,0,0,0,5
+2025,Thailand,Uganda,THA,UGA,U,FI,P,0,0,0,5,5
+2025,Thailand,Yemen,THA,YEM,U,FI,P,5,0,0,0,5

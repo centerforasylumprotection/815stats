@@ -722,36 +722,6 @@ Year,"Country of Asylum","Country of Origin","Country of Asylum ISO","Country of
 2024,Thailand,"Syrian Arab Rep.",THA,SYR,173,17,0,0,0,0,0
 2024,Thailand,Uganda,THA,UGA,5,5,0,0,0,0,0
 2024,Thailand,Yemen,THA,YEM,28,11,0,0,0,0,0
-2025,Thailand,Afghanistan,THA,AFG,140,116,0,0,0,0,0
-2025,Thailand,Egypt,THA,EGY,15,5,0,0,0,0,0
-2025,Thailand,Cambodia,THA,KHM,298,114,0,0,0,0,0
-2025,Thailand,China,THA,CHN,130,64,0,0,0,0,0
-2025,Thailand,Cameroon,THA,CMR,95,34,0,0,0,0,0
-2025,Thailand,"Dem. Rep. of the Congo",THA,COD,12,9,0,0,0,0,0
-2025,Thailand,Ethiopia,THA,ETH,21,60,0,0,0,0,0
-2025,Thailand,"State of Palestine",THA,PSE,132,6,0,0,0,0,0
-2025,Thailand,Guinea,THA,GIN,5,6,0,0,0,0,0
-2025,Thailand,"Cote d'Ivoire",THA,CIV,17,0,0,0,0,0,0
-2025,Thailand,India,THA,IND,0,5,0,0,0,0,0
-2025,Thailand,"Iran (Islamic Rep. of)",THA,IRN,67,15,0,0,0,0,0
-2025,Thailand,Iraq,THA,IRQ,97,6,0,0,0,0,0
-2025,Thailand,Jordan,THA,JOR,0,5,0,0,0,0,0
-2025,Thailand,Kuwait,THA,KWT,6,0,0,0,0,0,0
-2025,Thailand,"Lao People's Dem. Rep.",THA,LAO,5,5,0,0,0,0,0
-2025,Thailand,"Sri Lanka",THA,LKA,70,26,0,0,0,0,0
-2025,Thailand,Morocco,THA,MAR,5,0,0,0,0,0,0
-2025,Thailand,Myanmar,THA,MMR,80934,0,0,0,0,0,550
-2025,Thailand,Nepal,THA,NPL,5,0,0,0,0,0,0
-2025,Thailand,Nigeria,THA,NGA,0,16,0,0,0,0,0
-2025,Thailand,Pakistan,THA,PAK,1182,812,0,0,0,0,0
-2025,Thailand,"Russian Federation",THA,RUS,0,13,0,0,0,0,0
-2025,Thailand,Somalia,THA,SOM,118,39,0,0,0,0,0
-2025,Thailand,"Viet Nam",THA,VNM,916,1334,0,0,0,0,0
-2025,Thailand,Stateless,THA,XXA,0,0,0,0,612011,0,0
-2025,Thailand,Sudan,THA,SDN,11,12,0,0,0,0,0
-2025,Thailand,"Syrian Arab Rep.",THA,SYR,180,19,0,0,0,0,0
-2025,Thailand,Uganda,THA,UGA,0,5,0,0,0,0,0
-2025,Thailand,Yemen,THA,YEM,28,12,0,0,0,0,0
 2023,Thailand,Afghanistan,THA,AFG,119,23,0,0,0,0,0
 2023,Thailand,Egypt,THA,EGY,14,5,0,0,0,0,0
 2023,Thailand,Cambodia,THA,KHM,274,169,0,0,0,0,0
@@ -809,3 +779,32 @@ Year,"Country of Asylum","Country of Origin","Country of Asylum ISO","Country of
 2022,Thailand,"United Rep. of Tanzania",THA,TZA,5,0,0,0,0,0,0
 2022,Thailand,Yemen,THA,YEM,36,5,0,0,0,0,0
 2022,Thailand,Zimbabwe,THA,ZWE,9,0,0,0,0,0,0
+2025,Thailand,Afghanistan,THA,AFG,142,189,0,0,0,0,0
+2025,Thailand,Egypt,THA,EGY,15,0,0,0,0,0,0
+2025,Thailand,Cambodia,THA,KHM,297,70,0,0,0,0,0
+2025,Thailand,China,THA,CHN,131,52,0,0,0,0,0
+2025,Thailand,Cameroon,THA,CMR,99,18,0,0,0,0,0
+2025,Thailand,"Dem. Rep. of the Congo",THA,COD,13,7,0,0,0,0,0
+2025,Thailand,Ethiopia,THA,ETH,20,64,0,0,0,0,0
+2025,Thailand,"State of Palestine",THA,PSE,128,5,0,0,0,0,0
+2025,Thailand,Guinea,THA,GIN,9,0,0,0,0,0,0
+2025,Thailand,"Cote d'Ivoire",THA,CIV,17,0,0,0,0,0,0
+2025,Thailand,"Iran (Islamic Rep. of)",THA,IRN,67,13,0,0,0,0,0
+2025,Thailand,Iraq,THA,IRQ,100,7,0,0,0,0,0
+2025,Thailand,Jordan,THA,JOR,0,5,0,0,0,0,0
+2025,Thailand,Kuwait,THA,KWT,6,0,0,0,0,0,0
+2025,Thailand,"Lao People's Dem. Rep.",THA,LAO,6,0,0,0,0,0,0
+2025,Thailand,"Sri Lanka",THA,LKA,70,28,0,0,0,0,0
+2025,Thailand,Morocco,THA,MAR,5,5,0,0,0,0,0
+2025,Thailand,Myanmar,THA,MMR,80411,0,0,0,0,0,464
+2025,Thailand,Nepal,THA,NPL,5,0,0,0,0,0,0
+2025,Thailand,Nigeria,THA,NGA,0,10,0,0,0,0,0
+2025,Thailand,Pakistan,THA,PAK,1182,934,0,0,0,0,0
+2025,Thailand,"Russian Federation",THA,RUS,0,12,0,0,0,0,0
+2025,Thailand,Somalia,THA,SOM,122,52,0,0,0,0,0
+2025,Thailand,"Viet Nam",THA,VNM,940,1356,0,0,0,0,0
+2025,Thailand,Stateless,THA,XXA,0,0,0,0,610791,0,0
+2025,Thailand,Sudan,THA,SDN,18,6,0,0,0,0,0
+2025,Thailand,"Syrian Arab Rep.",THA,SYR,184,31,0,0,0,0,0
+2025,Thailand,Uganda,THA,UGA,0,5,0,0,0,0,0
+2025,Thailand,Yemen,THA,YEM,30,11,0,0,0,0,0
