@@ -72,3 +72,21 @@ Updating data consists in replacing the current CSV files with the ones you have
 
 Wait a few minutes, and go to [815stats](https://815stats.capthailand.org). You may have to force-reload the page with `CTRL`+`R` to see the updated figures.
 
+## Update message in app
+
+The app includes a "last updated" message which is added manually:
+- Go to `centerforasylumprotection/815stats/website/`.
+- Open `config.yaml`.
+- Click the `Edit this file` icon - the **pen** in the upper-right corner.
+- Find the **subtitle** key on line 19.
+- Write a message that explains when you last updated the data and what period they cover:
+
+**For example**
+```
+  subtitle: "Last updated: 21 June 2026. Figures are correct until the end of 2025."
+```
+
+*Please note: The two spaces in front of `  subtitle` are **very** important; without them the message will not be shown.*
+
+Save the file by clicking `Commit changes` at the top of file and again `Commit changes` to save.
+
