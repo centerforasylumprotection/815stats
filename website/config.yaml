@@ -140,11 +140,11 @@ popup:
   title: "Welcome"
   body: |
     **815stats** is a visualisation tool for Thai refugee statistics developed by the **Center for Asylum Protection** to better show UNHCR refugee statistics. It uses the *Forced Displacement* (population, asylum applications, asylum decisions) and *Solutions* (UNHCR-assisted refugee resettlement submissions and - departures) datasets.
-
+<br><br>
     The figures are valid up until 31 December 2025. Please note that this tool excludes Myanmar figures by default, as Myanmar nationals are subject to a separate government protection regime.
-    
+<br><br>
     Please see UNHCR's [Methodology](https://www.unhcr.org/refugee-statistics/methodology) for more information about the datasets, definitions, and structure.
-
+<br><br>
     For questions or feedback, please contact [Kristian Benestad](mailto:kristian.benestad@pspfoundation.org).
 
 
