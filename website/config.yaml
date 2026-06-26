@@ -13,7 +13,7 @@
 # ORGANISATION
 # ----------------------------------------------------------------
 organisation:
-  name: "Thailand Refugee Statistics Dashboard"
+  name: "815stats"
 
   # Short subtitle shown below the title in the header
   subtitle: "Last updated: 21 June 2026. Figures are correct until the end of 2025."
@@ -75,7 +75,7 @@ citation:
 
   # Shown as a footnote on the Refugees & Asylum-Seekers section
   note: >
-    Myanmar nationals are excluded from these figures by default.
+    BY default, these figures do not include Myanmar nationals.
     Under Thai law, persons from Myanmar are subject to a separate
     national protection regime (the Temporary Shelter Policy) and
     are not processed under UNHCR mandate refugee status
@@ -110,7 +110,7 @@ labels:
 # Leave a key blank (or omit it) to show no extra note for that section.
 notes:
   poc: ""           # Refugees & asylum-seekers footnote
-  applications: "<em>Abbreviations:</em> <strong>FA</strong> - first instance and appeal (combined category for the years 2001-2004 for all countrys, plus 2006-2013 for Myanmar; <strong>FI</strong> - first instance; <strong>AR</strong> - administrative review (appeal); <strong>RA</strong> - repeat applications. "  # Asylum applications footnote
+  applications: "<em>Abbreviations:</em> <strong>FA</strong> - first instance and appeal (combined category for the years 2001-2004 for all countries, plus 2006-2013 for Myanmar; <strong>FI</strong> - first instance; <strong>AR</strong> - administrative review (appeal); <strong>RA</strong> - repeat applications. "  # Asylum applications footnote
   decisions: "By default, decisions include cases that are coded as `Closed` or `Other`. Untick the box above the charts to only see figures for cases on which UNHCR made a substantive decision."     # Asylum decisions footnote
   departures: "Figures include only refugee resettled with the assistance of UNHCR. Refugees resettled through private sponsorship or national solutions outside the UNHCR resettlement framework are not captured in this dataset."    # Resettlement departures footnote
   submissions: "These figure only includes cases submitted by UNHCR to a potential resettlement country."   # Resettlement submissions footnote
@@ -139,7 +139,9 @@ notes:
 popup:
   title: "Welcome"
   body: |
-    The **Thailand Refugee Statistics Dashboard** is a visualisation tool developed by the **Center for Asylum Protection**. It uses the *Forced Displacement* (population, asylum applications, asylum decisions) and *Solutions* (UNHCR-assisted refugee resettlement submissions and - departures) datasets.
+    **815stats** is a visualisation tool for Thai refugee statistics developed by the **Center for Asylum Protection** to better show UNHCR refugee statistics. It uses the *Forced Displacement* (population, asylum applications, asylum decisions) and *Solutions* (UNHCR-assisted refugee resettlement submissions and - departures) datasets.
+
+    The figures are valid up until 31 December 2025. Please note that this tool excludes Myanmar figures by default, as Myanmar nationals are subject to a separate government protection regime.
     
     Please see UNHCR's [Methodology](https://www.unhcr.org/refugee-statistics/methodology) for more information about the datasets, definitions, and structure.
 
